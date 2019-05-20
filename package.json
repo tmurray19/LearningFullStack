@@ -1,0 +1,19 @@
+{
+  "name": "javascriptdevelopment",
+  "version": "1.0.0",
+  "description": "Learning Full Stack Development using JavaScript, MongoDB, Node.js, React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmurray19/LearningFullStack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmurray19/LearningFullStack/issues"
+  },
+  "homepage": "https://github.com/tmurray19/LearningFullStack#readme"
+}
